@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                             | Difficulty   | Practice                                                                                                                           |
-|---------|--------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                            | Difficulty   | Practice                                                                                                                           |
+|---------|-------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------|
 |      01 | 🎯 Reusable React Custom Form Component          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-reusable-react-custom-form-component-67586'>Start Challenge</a>          |
 |      02 | 🎯 Develop Tic-Tac-Toe Game with React           | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/react-develop-tic-tac-toe-game-with-react-67587'>Start Challenge</a>           |
 |      03 | 🎯 Reactive Stopwatch and Countdown Timer        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-reactive-stopwatch-and-countdown-timer-67593'>Start Challenge</a>        |
