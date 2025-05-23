@@ -31,20 +31,20 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                                        | 難易度   | 練習                                                                                                                              |
 |----------------|-------------------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 🎯 再利用可能な React カスタムフォームコンポーネント        | ★★☆      | <a target='_blank' href='https://labex.io/ja/labs/react-reusable-react-custom-form-component-67586'>チャレンジを開始</a>          |
-|             02 | 🎯 React を使ってナメコゲームを開発する                     | ★★☆      | <a target='_blank' href='https://labex.io/ja/labs/react-develop-tic-tac-toe-game-with-react-67587'>チャレンジを開始</a>           |
-|             03 | 🎯 リアクティブなストップウォッチとカウントダウンタイマー   | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/react-reactive-stopwatch-and-countdown-timer-67593'>チャレンジを開始</a>        |
-|             04 | 🎯 React によるインクリメントデクリメントカウンター         | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/react-react-increment-decrement-counter-67585'>チャレンジを開始</a>             |
-|             05 | 🎯 応答性のある React ポートフォリオを構築する              | ★★☆      | <a target='_blank' href='https://labex.io/ja/labs/react-build-responsive-react-portfolio-67591'>チャレンジを開始</a>              |
-|             06 | 🎯 React フックを使ったヘビゲームの開発                     | ★★☆      | <a target='_blank' href='https://labex.io/ja/labs/react-developing-snake-game-with-react-hooks-67592'>チャレンジを開始</a>        |
-|             07 | 🎯 React でドラッグアンドドロップ機能付きのボードを作成する | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/react-build-drag-and-drop-react-board-67588'>チャレンジを開始</a>               |
-|             08 | 🎯 ナメコゲーム                                             | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/react-tik-tac-toe-67594'>チャレンジを開始</a>                                   |
-|             09 | 🎯 スキルの入力                                             | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/react-input-of-skills-67590'>チャレンジを開始</a>                               |
-|             10 | 🎯 React を使った反応型 e コマースサイトの開発              | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/react-develop-reactive-ecommerce-website-with-react-67589'>チャレンジを開始</a> |
+|             01 | 🎯 再利用可能な React カスタムフォームコンポーネント        | 中級     | <a target='_blank' href='https://labex.io/ja/labs/react-reusable-react-custom-form-component-67586'>チャレンジを開始</a>          |
+|             02 | 🎯 React を使ってナメコゲームを開発する                     | 中級     | <a target='_blank' href='https://labex.io/ja/labs/react-develop-tic-tac-toe-game-with-react-67587'>チャレンジを開始</a>           |
+|             03 | 🎯 リアクティブなストップウォッチとカウントダウンタイマー   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/react-reactive-stopwatch-and-countdown-timer-67593'>チャレンジを開始</a>        |
+|             04 | 🎯 React によるインクリメントデクリメントカウンター         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/react-react-increment-decrement-counter-67585'>チャレンジを開始</a>             |
+|             05 | 🎯 応答性のある React ポートフォリオを構築する              | 中級     | <a target='_blank' href='https://labex.io/ja/labs/react-build-responsive-react-portfolio-67591'>チャレンジを開始</a>              |
+|             06 | 🎯 React フックを使ったヘビゲームの開発                     | 中級     | <a target='_blank' href='https://labex.io/ja/labs/react-developing-snake-game-with-react-hooks-67592'>チャレンジを開始</a>        |
+|             07 | 🎯 React でドラッグアンドドロップ機能付きのボードを作成する | 初級     | <a target='_blank' href='https://labex.io/ja/labs/react-build-drag-and-drop-react-board-67588'>チャレンジを開始</a>               |
+|             08 | 🎯 ナメコゲーム                                             | 初級     | <a target='_blank' href='https://labex.io/ja/labs/react-tik-tac-toe-67594'>チャレンジを開始</a>                                   |
+|             09 | 🎯 スキルの入力                                             | 初級     | <a target='_blank' href='https://labex.io/ja/labs/react-input-of-skills-67590'>チャレンジを開始</a>                               |
+|             10 | 🎯 React を使った反応型 e コマースサイトの開発              | 初級     | <a target='_blank' href='https://labex.io/ja/labs/react-develop-reactive-ecommerce-website-with-react-67589'>チャレンジを開始</a> |
 
 ## その他
 
-- 🔗 [React Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [React Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
+- 🔗 [React プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [React プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [React 無料チュートリアル](https://github.com/labex-labs/react-free-tutorials)
 
