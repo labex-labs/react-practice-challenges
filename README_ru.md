@@ -31,20 +31,20 @@ LabEx - это интерактивная практическая обучаю�
 
 |   Индекс | Название                                                 | Сложность   | Практика                                                                                                                          |
 |----------|----------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 🎯 Повторно используемый компонент пользовательской ф... | ★★☆         | <a target='_blank' href='https://labex.io/ru/labs/react-reusable-react-custom-form-component-67586'>Начать Испытание</a>          |
-|       02 | 🎯 Разработка игры в крестики-нолики с использованием... | ★★☆         | <a target='_blank' href='https://labex.io/ru/labs/react-develop-tic-tac-toe-game-with-react-67587'>Начать Испытание</a>           |
-|       03 | 🎯 Реактивный секундомер и таймер обратного отсчета      | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/react-reactive-stopwatch-and-countdown-timer-67593'>Начать Испытание</a>        |
-|       04 | 🎯 Счетчик с увеличением и уменьшением в React           | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/react-react-increment-decrement-counter-67585'>Начать Испытание</a>             |
-|       05 | 🎯 Создание отзывчивого портфолио на React               | ★★☆         | <a target='_blank' href='https://labex.io/ru/labs/react-build-responsive-react-portfolio-67591'>Начать Испытание</a>              |
-|       06 | 🎯 Разработка игры "Змейка" с использованием хуков Re... | ★★☆         | <a target='_blank' href='https://labex.io/ru/labs/react-developing-snake-game-with-react-hooks-67592'>Начать Испытание</a>        |
-|       07 | 🎯 Создание доски для перетаскивания элементов в Reac... | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/react-build-drag-and-drop-react-board-67588'>Начать Испытание</a>               |
-|       08 | 🎯 Крестики-нолики                                       | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/react-tik-tac-toe-67594'>Начать Испытание</a>                                   |
-|       09 | 🎯 Ввод навыков                                          | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/react-input-of-skills-67590'>Начать Испытание</a>                               |
-|       10 | 🎯 Разработка реактивного сайта для онлайн-магазина с... | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/react-develop-reactive-ecommerce-website-with-react-67589'>Начать Испытание</a> |
+|       01 | 🎯 Повторно используемый компонент пользовательской ф... | Средний     | <a target='_blank' href='https://labex.io/ru/labs/react-reusable-react-custom-form-component-67586'>Начать Испытание</a>          |
+|       02 | 🎯 Разработка игры в крестики-нолики с использованием... | Средний     | <a target='_blank' href='https://labex.io/ru/labs/react-develop-tic-tac-toe-game-with-react-67587'>Начать Испытание</a>           |
+|       03 | 🎯 Реактивный секундомер и таймер обратного отсчета      | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/react-reactive-stopwatch-and-countdown-timer-67593'>Начать Испытание</a>        |
+|       04 | 🎯 Счетчик с увеличением и уменьшением в React           | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/react-react-increment-decrement-counter-67585'>Начать Испытание</a>             |
+|       05 | 🎯 Создание отзывчивого портфолио на React               | Средний     | <a target='_blank' href='https://labex.io/ru/labs/react-build-responsive-react-portfolio-67591'>Начать Испытание</a>              |
+|       06 | 🎯 Разработка игры "Змейка" с использованием хуков Re... | Средний     | <a target='_blank' href='https://labex.io/ru/labs/react-developing-snake-game-with-react-hooks-67592'>Начать Испытание</a>        |
+|       07 | 🎯 Создание доски для перетаскивания элементов в Reac... | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/react-build-drag-and-drop-react-board-67588'>Начать Испытание</a>               |
+|       08 | 🎯 Крестики-нолики                                       | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/react-tik-tac-toe-67594'>Начать Испытание</a>                                   |
+|       09 | 🎯 Ввод навыков                                          | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/react-input-of-skills-67590'>Начать Испытание</a>                               |
+|       10 | 🎯 Разработка реактивного сайта для онлайн-магазина с... | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/react-develop-reactive-ecommerce-website-with-react-67589'>Начать Испытание</a> |
 
 ## Больше
 
-- 🔗 [React Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [React Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
+- 🔗 [React Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [React Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [React Бесплатные туториалы](https://github.com/labex-labs/react-free-tutorials)
 
