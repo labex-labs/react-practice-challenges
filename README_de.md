@@ -31,20 +31,20 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 |   Index | Name                                                     | Schwierigkeit   | Übung                                                                                                                              |
 |---------|----------------------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 🎯 Wiederverwendbarer React Benutzerdefinierter Formu... | ★★☆             | <a target='_blank' href='https://labex.io/de/labs/react-reusable-react-custom-form-component-67586'>Challenge Starten</a>          |
-|      02 | 🎯 Spiele Tic-Tac-Toe mit React entwickeln               | ★★☆             | <a target='_blank' href='https://labex.io/de/labs/react-develop-tic-tac-toe-game-with-react-67587'>Challenge Starten</a>           |
-|      03 | 🎯 Reaktive Stoppuhr und Countdown-Timer                 | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/react-reactive-stopwatch-and-countdown-timer-67593'>Challenge Starten</a>        |
-|      04 | 🎯 React Inkrement-Decrement-Zähler                      | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/react-react-increment-decrement-counter-67585'>Challenge Starten</a>             |
-|      05 | 🎯 Responsives React-Portfolio erstellen                 | ★★☆             | <a target='_blank' href='https://labex.io/de/labs/react-build-responsive-react-portfolio-67591'>Challenge Starten</a>              |
-|      06 | 🎯 Das Snake-Spiel mit React-Hooks entwickeln            | ★★☆             | <a target='_blank' href='https://labex.io/de/labs/react-developing-snake-game-with-react-hooks-67592'>Challenge Starten</a>        |
-|      07 | 🎯 React-Board mit Drag-and-Drop-Funktion erstellen      | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/react-build-drag-and-drop-react-board-67588'>Challenge Starten</a>               |
-|      08 | 🎯 Tic Tac Toe                                           | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/react-tik-tac-toe-67594'>Challenge Starten</a>                                   |
-|      09 | 🎯 Eingabe von Fähigkeiten                               | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/react-input-of-skills-67590'>Challenge Starten</a>                               |
-|      10 | 🎯 Entwickle ein reaktives E-Commerce-Website mit Rea... | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/react-develop-reactive-ecommerce-website-with-react-67589'>Challenge Starten</a> |
+|      01 | 🎯 Wiederverwendbarer React Benutzerdefinierter Formu... | Fortgeschritten | <a target='_blank' href='https://labex.io/de/labs/react-reusable-react-custom-form-component-67586'>Challenge Starten</a>          |
+|      02 | 🎯 Spiele Tic-Tac-Toe mit React entwickeln               | Fortgeschritten | <a target='_blank' href='https://labex.io/de/labs/react-develop-tic-tac-toe-game-with-react-67587'>Challenge Starten</a>           |
+|      03 | 🎯 Reaktive Stoppuhr und Countdown-Timer                 | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/react-reactive-stopwatch-and-countdown-timer-67593'>Challenge Starten</a>        |
+|      04 | 🎯 React Inkrement-Decrement-Zähler                      | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/react-react-increment-decrement-counter-67585'>Challenge Starten</a>             |
+|      05 | 🎯 Responsives React-Portfolio erstellen                 | Fortgeschritten | <a target='_blank' href='https://labex.io/de/labs/react-build-responsive-react-portfolio-67591'>Challenge Starten</a>              |
+|      06 | 🎯 Das Snake-Spiel mit React-Hooks entwickeln            | Fortgeschritten | <a target='_blank' href='https://labex.io/de/labs/react-developing-snake-game-with-react-hooks-67592'>Challenge Starten</a>        |
+|      07 | 🎯 React-Board mit Drag-and-Drop-Funktion erstellen      | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/react-build-drag-and-drop-react-board-67588'>Challenge Starten</a>               |
+|      08 | 🎯 Tic Tac Toe                                           | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/react-tik-tac-toe-67594'>Challenge Starten</a>                                   |
+|      09 | 🎯 Eingabe von Fähigkeiten                               | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/react-input-of-skills-67590'>Challenge Starten</a>                               |
+|      10 | 🎯 Entwickle ein reaktives E-Commerce-Website mit Rea... | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/react-develop-reactive-ecommerce-website-with-react-67589'>Challenge Starten</a> |
 
 ## Mehr
 
-- 🔗 [React Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [React Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
+- 🔗 [React Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [React Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [React Kostenlose Tutorials](https://github.com/labex-labs/react-free-tutorials)
 
