@@ -31,20 +31,20 @@ Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 |   Índice | Nombre                                                   | Dificultad   | Práctica                                                                                                                         |
 |----------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 🎯 Componente de formulario personalizado reutilizabl... | ★★☆          | <a target='_blank' href='https://labex.io/es/labs/react-reusable-react-custom-form-component-67586'>Iniciar Desafío</a>          |
-|       02 | 🎯 Desarrollar un juego de tres en raya con React        | ★★☆          | <a target='_blank' href='https://labex.io/es/labs/react-develop-tic-tac-toe-game-with-react-67587'>Iniciar Desafío</a>           |
-|       03 | 🎯 Temporizador de parada y cuenta atrás reactivo        | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/react-reactive-stopwatch-and-countdown-timer-67593'>Iniciar Desafío</a>        |
-|       04 | 🎯 Contador de Incremento y Decremento en React          | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/react-react-increment-decrement-counter-67585'>Iniciar Desafío</a>             |
-|       05 | 🎯 Construir un portafolio reactivo                      | ★★☆          | <a target='_blank' href='https://labex.io/es/labs/react-build-responsive-react-portfolio-67591'>Iniciar Desafío</a>              |
-|       06 | 🎯 Desarrollar el juego de la serpiente con hooks de ... | ★★☆          | <a target='_blank' href='https://labex.io/es/labs/react-developing-snake-game-with-react-hooks-67592'>Iniciar Desafío</a>        |
-|       07 | 🎯 Construir un tablero de arrastrar y soltar en Reac... | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/react-build-drag-and-drop-react-board-67588'>Iniciar Desafío</a>               |
-|       08 | 🎯 Tres en raya                                          | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/react-tik-tac-toe-67594'>Iniciar Desafío</a>                                   |
-|       09 | 🎯 Entrada de Habilidades                                | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/react-input-of-skills-67590'>Iniciar Desafío</a>                               |
-|       10 | 🎯 Desarrollar un sitio web de comercio electrónico r... | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/react-develop-reactive-ecommerce-website-with-react-67589'>Iniciar Desafío</a> |
+|       01 | 🎯 Componente de formulario personalizado reutilizabl... | Intermedio   | <a target='_blank' href='https://labex.io/es/labs/react-reusable-react-custom-form-component-67586'>Iniciar Desafío</a>          |
+|       02 | 🎯 Desarrollar un juego de tres en raya con React        | Intermedio   | <a target='_blank' href='https://labex.io/es/labs/react-develop-tic-tac-toe-game-with-react-67587'>Iniciar Desafío</a>           |
+|       03 | 🎯 Temporizador de parada y cuenta atrás reactivo        | Principiante | <a target='_blank' href='https://labex.io/es/labs/react-reactive-stopwatch-and-countdown-timer-67593'>Iniciar Desafío</a>        |
+|       04 | 🎯 Contador de Incremento y Decremento en React          | Principiante | <a target='_blank' href='https://labex.io/es/labs/react-react-increment-decrement-counter-67585'>Iniciar Desafío</a>             |
+|       05 | 🎯 Construir un portafolio reactivo                      | Intermedio   | <a target='_blank' href='https://labex.io/es/labs/react-build-responsive-react-portfolio-67591'>Iniciar Desafío</a>              |
+|       06 | 🎯 Desarrollar el juego de la serpiente con hooks de ... | Intermedio   | <a target='_blank' href='https://labex.io/es/labs/react-developing-snake-game-with-react-hooks-67592'>Iniciar Desafío</a>        |
+|       07 | 🎯 Construir un tablero de arrastrar y soltar en Reac... | Principiante | <a target='_blank' href='https://labex.io/es/labs/react-build-drag-and-drop-react-board-67588'>Iniciar Desafío</a>               |
+|       08 | 🎯 Tres en raya                                          | Principiante | <a target='_blank' href='https://labex.io/es/labs/react-tik-tac-toe-67594'>Iniciar Desafío</a>                                   |
+|       09 | 🎯 Entrada de Habilidades                                | Principiante | <a target='_blank' href='https://labex.io/es/labs/react-input-of-skills-67590'>Iniciar Desafío</a>                               |
+|       10 | 🎯 Desarrollar un sitio web de comercio electrónico r... | Principiante | <a target='_blank' href='https://labex.io/es/labs/react-develop-reactive-ecommerce-website-with-react-67589'>Iniciar Desafío</a> |
 
 ## Más
 
-- 🔗 [React Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [React Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
+- 🔗 [React Cursos de Programación](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [React Proyectos de Programación](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [React Tutoriales Gratuitos](https://github.com/labex-labs/react-free-tutorials)
 
