@@ -13,6 +13,21 @@ Ce cours contient de nombreux défis pour React. Chaque défi est un petit proje
 ![React](https://img.shields.io/badge/React-whitesmoke?style=for-the-badge&logo=react)
 
 
+## Exercices
+
+|   Index | Nom                                                         | Difficulté    | Pratique                                                                                                                           |
+|---------|-------------------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 🎯 🟢 Composant de formulaire personnalisé réutilisable ... | Intermédiaire | <a target='_blank' href='https://labex.io/fr/labs/react-reusable-react-custom-form-component-67586'>Commencer le Défi</a>          |
+|      02 | 🎯 🟢 Développer un jeu de morpion avec React               | Intermédiaire | <a target='_blank' href='https://labex.io/fr/labs/react-develop-tic-tac-toe-game-with-react-67587'>Commencer le Défi</a>           |
+|      03 | 🎯 🟢 Montre à stop réactive et horloge à compte à rebou... | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/react-reactive-stopwatch-and-countdown-timer-67593'>Commencer le Défi</a>        |
+|      04 | 🎯 🟢 Compteur d'incrémentation/décrémentation React        | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/react-react-increment-decrement-counter-67585'>Commencer le Défi</a>             |
+|      05 | 🎯 🟢 Créer un portefeuille React responsive                | Intermédiaire | <a target='_blank' href='https://labex.io/fr/labs/react-build-responsive-react-portfolio-67591'>Commencer le Défi</a>              |
+|      06 | 🎯 🟢 Développement du jeu du serpent avec des hooks Rea... | Intermédiaire | <a target='_blank' href='https://labex.io/fr/labs/react-developing-snake-game-with-react-hooks-67592'>Commencer le Défi</a>        |
+|      07 | 🎯 🟢 Créer un tableau React avec glisser-déposer           | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/react-build-drag-and-drop-react-board-67588'>Commencer le Défi</a>               |
+|      08 | 🎯 🟢 Morpion                                               | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/react-tik-tac-toe-67594'>Commencer le Défi</a>                                   |
+|      09 | 🎯 🟢 Entrée de compétences                                 | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/react-input-of-skills-67590'>Commencer le Défi</a>                               |
+|      10 | 🎯 🔵 Développer un site web de commerce électronique ré... | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/react-develop-reactive-ecommerce-website-with-react-67589'>Commencer le Défi</a> |
+
 ## Environnement
 
 LabEx est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo.
@@ -23,24 +38,9 @@ LabEx est une plateforme d'apprentissage interactive et pratique dédiée au cod
 - Des environnements en ligne interactifs dans le navigateur, avec des vérifications automatisées étape par étape.
 - Une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences.
 - Une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires.
-- L'assistant d'apprentissage IA Labby, construit sur ChatGPT, offrant une expérience d'apprentissage conversationnelle.
+- L'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
 
 En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Exercices
-
-|   Index | Nom                                                      | Difficulté    | Pratique                                                                                                                           |
-|---------|----------------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 🎯 Composant de formulaire personnalisé réutilisable ... | Intermédiaire | <a target='_blank' href='https://labex.io/fr/labs/react-reusable-react-custom-form-component-67586'>Commencer le Défi</a>          |
-|      02 | 🎯 Développer un jeu de morpion avec React               | Intermédiaire | <a target='_blank' href='https://labex.io/fr/labs/react-develop-tic-tac-toe-game-with-react-67587'>Commencer le Défi</a>           |
-|      03 | 🎯 Montre à stop réactive et horloge à compte à rebou... | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/react-reactive-stopwatch-and-countdown-timer-67593'>Commencer le Défi</a>        |
-|      04 | 🎯 Compteur d'incrémentation/décrémentation React        | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/react-react-increment-decrement-counter-67585'>Commencer le Défi</a>             |
-|      05 | 🎯 Créer un portefeuille React responsive                | Intermédiaire | <a target='_blank' href='https://labex.io/fr/labs/react-build-responsive-react-portfolio-67591'>Commencer le Défi</a>              |
-|      06 | 🎯 Développement du jeu du serpent avec des hooks Rea... | Intermédiaire | <a target='_blank' href='https://labex.io/fr/labs/react-developing-snake-game-with-react-hooks-67592'>Commencer le Défi</a>        |
-|      07 | 🎯 Créer un tableau React avec glisser-déposer           | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/react-build-drag-and-drop-react-board-67588'>Commencer le Défi</a>               |
-|      08 | 🎯 Morpion                                               | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/react-tik-tac-toe-67594'>Commencer le Défi</a>                                   |
-|      09 | 🎯 Entrée de compétences                                 | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/react-input-of-skills-67590'>Commencer le Défi</a>                               |
-|      10 | 🎯 Développer un site web de commerce électronique ré... | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/react-develop-reactive-ecommerce-website-with-react-67589'>Commencer le Défi</a> |
 
 ## Plus
 
