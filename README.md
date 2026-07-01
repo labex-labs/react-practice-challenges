@@ -1,50 +1,46 @@
-# React Practice Challenges
+# Practice React Challenges
 
 ## Languages
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![React Practice Challenges](https://cover-creator.labex.io/react-practice-challenges.png)](https://labex.io/courses/react-practice-challenges)
+<div align="center">
+<img width="128px" src="https://file.labex.io/upload/u/1991/hQQaZ4DWe13G.png">
+</div>
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/react-practice-challenges)
+Learn React, a popular library for building user interfaces, with this structured learning path designed for beginners. These comprehensive React courses provide a step-by-step guide to mastering components, state management, and hooks. Develop practical skills by completing hands-on, non-video coding exercises in an interactive frontend playground to build modern, responsive web applications.
 
-This course contains lots of challenges for React, each challenge is a small React project with detailed instructions and solutions. You can practice your React skills by solving these challenges, improve your problem-solving skills, and learn how to write clean and efficient code.
+Browse up to 21 focused React challenges from LabEx. Each challenge opens in an interactive environment so you can build skills through targeted practice.
 
-![React](https://img.shields.io/badge/React-whitesmoke?style=for-the-badge&logo=react)
+|   Index | Name                                                                                                         | Skills                    | Difficulty   | Practice                                                                                    |
+|---------|--------------------------------------------------------------------------------------------------------------|---------------------------|--------------|---------------------------------------------------------------------------------------------|
+|      01 | [Hydrate Existing Root](https://labex.io/labs/hydrate-existing-root-705317)                                  | Hydration                 | Beginner     | [Start Challenge](https://labex.io/labs/hydrate-existing-root-705317)                       |
+|      02 | [Test Toggle Component](https://labex.io/labs/test-toggle-component-705327)                                  | Component Testing         | Beginner     | [Start Challenge](https://labex.io/labs/test-toggle-component-705327)                       |
+|      03 | [Split Admin Panel](https://labex.io/labs/split-admin-panel-705326)                                          | Code Splitting            | Beginner     | [Start Challenge](https://labex.io/labs/split-admin-panel-705326)                           |
+|      04 | [Show Query States](https://labex.io/labs/show-query-states-705325)                                          | Loading and Error States  | Beginner     | [Start Challenge](https://labex.io/labs/show-query-states-705325)                           |
+|      05 | [Repair Accessible Tabs](https://labex.io/labs/repair-accessible-tabs-705324)                                | Accessible Components     | Beginner     | [Start Challenge](https://labex.io/labs/repair-accessible-tabs-705324)                      |
+|      06 | [Render Server Shell](https://labex.io/labs/render-server-shell-705323)                                      | Server Rendering Concepts | Beginner     | [Start Challenge](https://labex.io/labs/render-server-shell-705323)                         |
+|      07 | [Render Modal Portal](https://labex.io/labs/render-modal-portal-705322)                                      | Portals                   | Beginner     | [Start Challenge](https://labex.io/labs/render-modal-portal-705322)                         |
+|      08 | [Profile Slow List](https://labex.io/labs/profile-slow-list-705321)                                          | Performance Profiling     | Beginner     | [Start Challenge](https://labex.io/labs/profile-slow-list-705321)                           |
+|      09 | [Prioritize Filter Updates](https://labex.io/labs/prioritize-filter-updates-705320)                          | Concurrent Rendering      | Beginner     | [Start Challenge](https://labex.io/labs/prioritize-filter-updates-705320)                   |
+|      10 | [Memoize Filtered List](https://labex.io/labs/memoize-filtered-list-705319)                                  | Memoization               | Beginner     | [Start Challenge](https://labex.io/labs/memoize-filtered-list-705319)                       |
+|      11 | [Manage Cart Reducer](https://labex.io/labs/manage-cart-reducer-705318)                                      | Reducers                  | Beginner     | [Start Challenge](https://labex.io/labs/manage-cart-reducer-705318)                         |
+|      12 | [React Theme Switcher Application](https://labex.io/labs/javascript-react-theme-switcher-application-300137) | Context                   | Intermediate | [Start Challenge](https://labex.io/labs/javascript-react-theme-switcher-application-300137) |
+|      13 | [Focus Search Input](https://labex.io/labs/focus-search-input-705316)                                        | Refs                      | Beginner     | [Start Challenge](https://labex.io/labs/focus-search-input-705316)                          |
+|      14 | [Enable Strict Mode](https://labex.io/labs/enable-strict-mode-705315)                                        | Strict Mode               | Beginner     | [Start Challenge](https://labex.io/labs/enable-strict-mode-705315)                          |
+|      15 | [Derive Cart Total](https://labex.io/labs/derive-cart-total-705314)                                          | Derived State             | Beginner     | [Start Challenge](https://labex.io/labs/derive-cart-total-705314)                           |
+|      16 | [Compose Card Children](https://labex.io/labs/compose-card-children-705313)                                  | Children                  | Beginner     | [Start Challenge](https://labex.io/labs/compose-card-children-705313)                       |
+|      17 | [Colocate Toggle State](https://labex.io/labs/colocate-toggle-state-705312)                                  | State Colocation          | Beginner     | [Start Challenge](https://labex.io/labs/colocate-toggle-state-705312)                       |
+|      18 | [Clean Window Listener](https://labex.io/labs/clean-window-listener-705311)                                  | Effect Cleanup            | Beginner     | [Start Challenge](https://labex.io/labs/clean-window-listener-705311)                       |
+|      19 | [Catch Widget Errors](https://labex.io/labs/catch-widget-errors-705310)                                      | Error Boundaries          | Beginner     | [Start Challenge](https://labex.io/labs/catch-widget-errors-705310)                         |
+|      20 | [Add Suspense Fallback](https://labex.io/labs/add-suspense-fallback-705309)                                  | Suspense Boundaries       | Beginner     | [Start Challenge](https://labex.io/labs/add-suspense-fallback-705309)                       |
+|      21 | [Switch Between Light and Dark](https://labex.io/labs/react-switch-between-light-and-dark-300147)            | Context                   | Intermediate | [Start Challenge](https://labex.io/labs/react-switch-between-light-and-dark-300147)         |
 
-
-## Exercises
-
-|   Index | Name                                                | Difficulty   | Practice                                                                                                                      |
-|---------|-----------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 🎯 🟢 Reusable React Custom Form Component          | Intermediate | <a target='_blank' href='https://labex.io/labs/react-reusable-react-custom-form-component-67586'>Start Challenge</a>          |
-|      02 | 🎯 🟢 Develop Tic-Tac-Toe Game with React           | Intermediate | <a target='_blank' href='https://labex.io/labs/react-develop-tic-tac-toe-game-with-react-67587'>Start Challenge</a>           |
-|      03 | 🎯 🟢 Reactive Stopwatch and Countdown Timer        | Beginner     | <a target='_blank' href='https://labex.io/labs/react-reactive-stopwatch-and-countdown-timer-67593'>Start Challenge</a>        |
-|      04 | 🎯 🟢 React Increment Decrement Counter             | Beginner     | <a target='_blank' href='https://labex.io/labs/react-react-increment-decrement-counter-67585'>Start Challenge</a>             |
-|      05 | 🎯 🟢 Build Responsive React Portfolio              | Intermediate | <a target='_blank' href='https://labex.io/labs/react-build-responsive-react-portfolio-67591'>Start Challenge</a>              |
-|      06 | 🎯 🟢 Developing Snake Game with React Hooks        | Intermediate | <a target='_blank' href='https://labex.io/labs/react-developing-snake-game-with-react-hooks-67592'>Start Challenge</a>        |
-|      07 | 🎯 🟢 Build Drag-and-Drop React Board               | Beginner     | <a target='_blank' href='https://labex.io/labs/react-build-drag-and-drop-react-board-67588'>Start Challenge</a>               |
-|      08 | 🎯 🟢 Tik Tac Toe                                   | Beginner     | <a target='_blank' href='https://labex.io/labs/react-tik-tac-toe-67594'>Start Challenge</a>                                   |
-|      09 | 🎯 🟢 Input of Skills                               | Beginner     | <a target='_blank' href='https://labex.io/labs/react-input-of-skills-67590'>Start Challenge</a>                               |
-|      10 | 🎯 🔵 Develop Reactive Ecommerce Website with React | Beginner     | <a target='_blank' href='https://labex.io/labs/react-develop-reactive-ecommerce-website-with-react-67589'>Start Challenge</a> |
-
-## Environment
-
-LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience.
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
-- Interactive online environments within the browser, with automated step-by-step checks.
-- A structured content organization with the Skill Tree based learning system.
-- A growing learning resource of 30 Skill Trees and over 6,000 Labs.
-- The learning assistant Labby, built on lastest AI models, providing a conversational learning experience.
-
-Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+[View all challenges](https://labex.io/learn/react).
 
 ## More
 
-- 🔗 [React Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [React Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
+- 🔗 [Learn more about React on LabEx](https://labex.io/learn/react)
+- 🔗 [Explore more programming projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Explore programming courses](https://github.com/labex-labs/awesome-programming-courses)
 
