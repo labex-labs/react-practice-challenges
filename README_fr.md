@@ -2,49 +2,45 @@
 
 ## Langues
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Défis pratiques React](https://cover-creator.labex.io/react-practice-challenges.png?lang=fr)](https://labex.io/fr/courses/react-practice-challenges)
+<div align="center">
+<img width="128px" src="https://file.labex.io/upload/u/1991/hQQaZ4DWe13G.png">
+</div>
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/fr/courses/react-practice-challenges)
+Apprenez React, une bibliothèque populaire pour la création d'interfaces utilisateur, grâce à ce parcours d'apprentissage structuré conçu pour les débutants. Ces cours React complets offrent un guide étape par étape pour maîtriser les composants, la gestion d'état et les hooks. Développez des compétences pratiques en réalisant des exercices de codage interactifs, sans vidéo, dans un environnement de développement frontend pour construire des applications web modernes et réactives.
 
-Ce cours contient de nombreux défis pour React. Chaque défi est un petit projet React avec des instructions détaillées et des solutions. Vous pouvez améliorer vos compétences en React en résolvant ces défis, développer vos capacités à résoudre des problèmes et apprendre à écrire un code propre et efficace.
+Parcourez jusqu'à 21 défis ciblés React sur LabEx. Chaque défi s'ouvre dans un environnement interactif pour travailler des compétences précises.
 
-![React](https://img.shields.io/badge/React-whitesmoke?style=for-the-badge&logo=react)
+|   Index | Nom                                                                                                                      | Compétences                     | Difficulté    | Pratique                                                                                         |
+|---------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------|---------------|--------------------------------------------------------------------------------------------------|
+|      01 | [Hydrater une racine existante](https://labex.io/fr/labs/hydrate-existing-root-705317)                                   | Hydratation                     | Débutant      | [Commencer le Défi](https://labex.io/fr/labs/hydrate-existing-root-705317)                       |
+|      02 | [Tester le composant Toggle](https://labex.io/fr/labs/test-toggle-component-705327)                                      | Test des composants             | Débutant      | [Commencer le Défi](https://labex.io/fr/labs/test-toggle-component-705327)                       |
+|      03 | [Fractionnement du panneau d'administration](https://labex.io/fr/labs/split-admin-panel-705326)                          | Fractionnement du code          | Débutant      | [Commencer le Défi](https://labex.io/fr/labs/split-admin-panel-705326)                           |
+|      04 | [Afficher les états de requête](https://labex.io/fr/labs/show-query-states-705325)                                       | États de chargement et d’erreur | Débutant      | [Commencer le Défi](https://labex.io/fr/labs/show-query-states-705325)                           |
+|      05 | [Réparer des onglets accessibles](https://labex.io/fr/labs/repair-accessible-tabs-705324)                                | Composants accessibles          | Débutant      | [Commencer le Défi](https://labex.io/fr/labs/repair-accessible-tabs-705324)                      |
+|      06 | [Rendu de shell côté serveur](https://labex.io/fr/labs/render-server-shell-705323)                                       | Concepts de rendu du serveur    | Débutant      | [Commencer le Défi](https://labex.io/fr/labs/render-server-shell-705323)                         |
+|      07 | [Rendre un portail modal](https://labex.io/fr/labs/render-modal-portal-705322)                                           | Portails                        | Débutant      | [Commencer le Défi](https://labex.io/fr/labs/render-modal-portal-705322)                         |
+|      08 | [Profiler une liste lente](https://labex.io/fr/labs/profile-slow-list-705321)                                            | Profilage des performances      | Débutant      | [Commencer le Défi](https://labex.io/fr/labs/profile-slow-list-705321)                           |
+|      09 | [Prioriser les mises à jour de filtrage](https://labex.io/fr/labs/prioritize-filter-updates-705320)                      | Rendu concurrent                | Débutant      | [Commencer le Défi](https://labex.io/fr/labs/prioritize-filter-updates-705320)                   |
+|      10 | [Mémoriser une liste filtrée](https://labex.io/fr/labs/memoize-filtered-list-705319)                                     | Mémoïsation                     | Débutant      | [Commencer le Défi](https://labex.io/fr/labs/memoize-filtered-list-705319)                       |
+|      11 | [Gérer le réducteur de panier](https://labex.io/fr/labs/manage-cart-reducer-705318)                                      | Reducers                        | Débutant      | [Commencer le Défi](https://labex.io/fr/labs/manage-cart-reducer-705318)                         |
+|      12 | [Application de commutation de thème React](https://labex.io/fr/labs/javascript-react-theme-switcher-application-300137) | Contexte                        | Intermédiaire | [Commencer le Défi](https://labex.io/fr/labs/javascript-react-theme-switcher-application-300137) |
+|      13 | [Focus sur le champ de recherche](https://labex.io/fr/labs/focus-search-input-705316)                                    | Refs                            | Débutant      | [Commencer le Défi](https://labex.io/fr/labs/focus-search-input-705316)                          |
+|      14 | [Activer le mode strict](https://labex.io/fr/labs/enable-strict-mode-705315)                                             | Mode strict                     | Débutant      | [Commencer le Défi](https://labex.io/fr/labs/enable-strict-mode-705315)                          |
+|      15 | [Calculer le total du panier](https://labex.io/fr/labs/derive-cart-total-705314)                                         | État dérivé                     | Débutant      | [Commencer le Défi](https://labex.io/fr/labs/derive-cart-total-705314)                           |
+|      16 | [Composition des enfants dans Card](https://labex.io/fr/labs/compose-card-children-705313)                               | children                        | Débutant      | [Commencer le Défi](https://labex.io/fr/labs/compose-card-children-705313)                       |
+|      17 | [Colocalisation de l'état de bascule](https://labex.io/fr/labs/colocate-toggle-state-705312)                             | Colocation de l’état            | Débutant      | [Commencer le Défi](https://labex.io/fr/labs/colocate-toggle-state-705312)                       |
+|      18 | [Nettoyage d'écouteur d'événement de fenêtre](https://labex.io/fr/labs/clean-window-listener-705311)                     | Nettoyage des effets            | Débutant      | [Commencer le Défi](https://labex.io/fr/labs/clean-window-listener-705311)                       |
+|      19 | [Intercepter les erreurs de widget](https://labex.io/fr/labs/catch-widget-errors-705310)                                 | Limites d’erreur                | Débutant      | [Commencer le Défi](https://labex.io/fr/labs/catch-widget-errors-705310)                         |
+|      20 | [Ajouter un fallback Suspense](https://labex.io/fr/labs/add-suspense-fallback-705309)                                    | Limites Suspense                | Débutant      | [Commencer le Défi](https://labex.io/fr/labs/add-suspense-fallback-705309)                       |
+|      21 | [Passer d'un mode clair à un mode sombre](https://labex.io/fr/labs/react-switch-between-light-and-dark-300147)           | Contexte                        | Intermédiaire | [Commencer le Défi](https://labex.io/fr/labs/react-switch-between-light-and-dark-300147)         |
 
-
-## Exercices
-
-|   Index | Nom                                                         | Difficulté    | Pratique                                                                                                                           |
-|---------|-------------------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 🎯 🟢 Composant de formulaire personnalisé réutilisable ... | Intermédiaire | <a target='_blank' href='https://labex.io/fr/labs/react-reusable-react-custom-form-component-67586'>Commencer le Défi</a>          |
-|      02 | 🎯 🟢 Développer un jeu de morpion avec React               | Intermédiaire | <a target='_blank' href='https://labex.io/fr/labs/react-develop-tic-tac-toe-game-with-react-67587'>Commencer le Défi</a>           |
-|      03 | 🎯 🟢 Montre à stop réactive et horloge à compte à rebou... | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/react-reactive-stopwatch-and-countdown-timer-67593'>Commencer le Défi</a>        |
-|      04 | 🎯 🟢 Compteur d'incrémentation/décrémentation React        | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/react-react-increment-decrement-counter-67585'>Commencer le Défi</a>             |
-|      05 | 🎯 🟢 Créer un portefeuille React responsive                | Intermédiaire | <a target='_blank' href='https://labex.io/fr/labs/react-build-responsive-react-portfolio-67591'>Commencer le Défi</a>              |
-|      06 | 🎯 🟢 Développement du jeu du serpent avec des hooks Rea... | Intermédiaire | <a target='_blank' href='https://labex.io/fr/labs/react-developing-snake-game-with-react-hooks-67592'>Commencer le Défi</a>        |
-|      07 | 🎯 🟢 Créer un tableau React avec glisser-déposer           | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/react-build-drag-and-drop-react-board-67588'>Commencer le Défi</a>               |
-|      08 | 🎯 🟢 Morpion                                               | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/react-tik-tac-toe-67594'>Commencer le Défi</a>                                   |
-|      09 | 🎯 🟢 Entrée de compétences                                 | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/react-input-of-skills-67590'>Commencer le Défi</a>                               |
-|      10 | 🎯 🔵 Développer un site web de commerce électronique ré... | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/react-develop-reactive-ecommerce-website-with-react-67589'>Commencer le Défi</a> |
-
-## Environnement
-
-LabEx est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo.
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- Une approche stricte "Apprendre en Faisant" avec des laboratoires pratiques exclusifs et sans vidéos.
-- Des environnements en ligne interactifs dans le navigateur, avec des vérifications automatisées étape par étape.
-- Une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences.
-- Une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires.
-- L'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
-
-En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+[Voir tous les défis](https://labex.io/fr/learn/react).
 
 ## Plus
 
-- 🔗 [React Cours de Programmation](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [React Projets de Programmation](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [React Tutoriels Gratuits](https://github.com/labex-labs/react-free-tutorials)
+- 🔗 [En savoir plus sur React sur LabEx](https://labex.io/fr/learn/react)
+- 🔗 [Explorer plus de projets de programmation](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Explorer les cours de programmation](https://github.com/labex-labs/awesome-programming-courses)
 
