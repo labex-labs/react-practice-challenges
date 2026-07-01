@@ -2,49 +2,45 @@
 
 ## 言語
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![React 実践チャレンジ](https://cover-creator.labex.io/react-practice-challenges.png?lang=ja)](https://labex.io/ja/courses/react-practice-challenges)
+<div align="center">
+<img width="128px" src="https://file.labex.io/upload/u/1991/hQQaZ4DWe13G.png">
+</div>
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ja/courses/react-practice-challenges)
+ユーザーインターフェース構築に人気のライブラリである React を、初心者向けに設計されたこの体系的な学習パスで学びましょう。これらの包括的な React コースは、コンポーネント、状態管理、Hooks を習得するためのステップバイステップガイドを提供します。インタラクティブなフロントエンドプレイグラウンドで、動画なしの実践的なコーディング演習を完了することで、現代的でレスポンシブなウェブアプリケーションを構築するための実践的なスキルを身につけましょう。
 
-このコースには React のチャレンジが多数含まれています。各チャレンジは詳細な説明と解決策を備えた小さな React プロジェクトです。これらのチャレンジを解くことで React のスキルを練習し、問題解決能力を向上させ、クリーンで効率的なコードの書き方を学ぶことができます。
+LabEx の最大 21 個の React 集中チャレンジを一覧できます。各チャレンジはインタラクティブ環境で開き、特定のスキルを練習できます。
 
-![React](https://img.shields.io/badge/React-whitesmoke?style=for-the-badge&logo=react)
+|   インデックス | 名前                                                                                                    | スキル             | 難易度   | 練習                                                                                      |
+|----------|-------------------------------------------------------------------------------------------------------|-----------------|-------|-----------------------------------------------------------------------------------------|
+|       01 | [既存のルートのハイドレーション](https://labex.io/ja/labs/hydrate-existing-root-705317)                              | Hydration       | 初級    | [チャレンジを開始](https://labex.io/ja/labs/hydrate-existing-root-705317)                       |
+|       02 | [Toggle コンポーネントのテスト](https://labex.io/ja/labs/test-toggle-component-705327)                           | コンポーネントのテスト     | 初級    | [チャレンジを開始](https://labex.io/ja/labs/test-toggle-component-705327)                       |
+|       03 | [管理パネルのコード分割](https://labex.io/ja/labs/split-admin-panel-705326)                                      | コード分割           | 初級    | [チャレンジを開始](https://labex.io/ja/labs/split-admin-panel-705326)                           |
+|       04 | [クエリ状態の表示](https://labex.io/ja/labs/show-query-states-705325)                                         | ロード状態とエラー状態     | 初級    | [チャレンジを開始](https://labex.io/ja/labs/show-query-states-705325)                           |
+|       05 | [アクセシブルなタブの修正](https://labex.io/ja/labs/repair-accessible-tabs-705324)                                | アクセシブルなコンポーネント  | 初級    | [チャレンジを開始](https://labex.io/ja/labs/repair-accessible-tabs-705324)                      |
+|       06 | [サーバーシェルのレンダリング](https://labex.io/ja/labs/render-server-shell-705323)                                 | サーバーレンダリングの概念   | 初級    | [チャレンジを開始](https://labex.io/ja/labs/render-server-shell-705323)                         |
+|       07 | [モーダルポータルのレンダリング](https://labex.io/ja/labs/render-modal-portal-705322)                                | ポータル            | 初級    | [チャレンジを開始](https://labex.io/ja/labs/render-modal-portal-705322)                         |
+|       08 | [低速リストのプロファイリング](https://labex.io/ja/labs/profile-slow-list-705321)                                   | パフォーマンスプロファイリング | 初級    | [チャレンジを開始](https://labex.io/ja/labs/profile-slow-list-705321)                           |
+|       09 | [フィルター更新の優先順位付け](https://labex.io/ja/labs/prioritize-filter-updates-705320)                           | 並行レンダリング        | 初級    | [チャレンジを開始](https://labex.io/ja/labs/prioritize-filter-updates-705320)                   |
+|       10 | [フィルタリングされたリストのメモ化](https://labex.io/ja/labs/memoize-filtered-list-705319)                            | メモ化             | 初級    | [チャレンジを開始](https://labex.io/ja/labs/memoize-filtered-list-705319)                       |
+|       11 | [カートリデューサーの管理](https://labex.io/ja/labs/manage-cart-reducer-705318)                                   | Reducer         | 初級    | [チャレンジを開始](https://labex.io/ja/labs/manage-cart-reducer-705318)                         |
+|       12 | [React のテーマ切り替えアプリケーション](https://labex.io/ja/labs/javascript-react-theme-switcher-application-300137) | Context         | 中級    | [チャレンジを開始](https://labex.io/ja/labs/javascript-react-theme-switcher-application-300137) |
+|       13 | [検索入力欄へのフォーカス](https://labex.io/ja/labs/focus-search-input-705316)                                    | Refs            | 初級    | [チャレンジを開始](https://labex.io/ja/labs/focus-search-input-705316)                          |
+|       14 | [Strict Mode を有効にする](https://labex.io/ja/labs/enable-strict-mode-705315)                              | ストリクトモード        | 初級    | [チャレンジを開始](https://labex.io/ja/labs/enable-strict-mode-705315)                          |
+|       15 | [カート合計の算出](https://labex.io/ja/labs/derive-cart-total-705314)                                         | 派生状態            | 初級    | [チャレンジを開始](https://labex.io/ja/labs/derive-cart-total-705314)                           |
+|       16 | [Card コンポーネントの children 合成](https://labex.io/ja/labs/compose-card-children-705313)                    | children        | 初級    | [チャレンジを開始](https://labex.io/ja/labs/compose-card-children-705313)                       |
+|       17 | [トグル状態のコロケーション（State Colocation）](https://labex.io/ja/labs/colocate-toggle-state-705312)              | 状態のコロケーション      | 初級    | [チャレンジを開始](https://labex.io/ja/labs/colocate-toggle-state-705312)                       |
+|       18 | [ウィンドウリスナーのクリーンアップ](https://labex.io/ja/labs/clean-window-listener-705311)                            | Effect のクリーンアップ | 初級    | [チャレンジを開始](https://labex.io/ja/labs/clean-window-listener-705311)                       |
+|       19 | [ウィジェットエラーのキャッチ](https://labex.io/ja/labs/catch-widget-errors-705310)                                 | エラー境界           | 初級    | [チャレンジを開始](https://labex.io/ja/labs/catch-widget-errors-705310)                         |
+|       20 | [Suspense フォールバックの追加](https://labex.io/ja/labs/add-suspense-fallback-705309)                          | Suspense 境界     | 初級    | [チャレンジを開始](https://labex.io/ja/labs/add-suspense-fallback-705309)                       |
+|       21 | [明るいモードと暗いモードの切り替え](https://labex.io/ja/labs/react-switch-between-light-and-dark-300147)              | Context         | 中級    | [チャレンジを開始](https://labex.io/ja/labs/react-switch-between-light-and-dark-300147)         |
 
-
-## 演習
-
-|   インデックス | 名前                                                           | 難易度   | 練習                                                                                                                              |
-|----------------|----------------------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 🎯 🟢 再利用可能な React カスタムフォームコンポーネント        | 中級     | <a target='_blank' href='https://labex.io/ja/labs/react-reusable-react-custom-form-component-67586'>チャレンジを開始</a>          |
-|             02 | 🎯 🟢 React を使ってナメコゲームを開発する                     | 中級     | <a target='_blank' href='https://labex.io/ja/labs/react-develop-tic-tac-toe-game-with-react-67587'>チャレンジを開始</a>           |
-|             03 | 🎯 🟢 リアクティブなストップウォッチとカウントダウンタイマー   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/react-reactive-stopwatch-and-countdown-timer-67593'>チャレンジを開始</a>        |
-|             04 | 🎯 🟢 React によるインクリメントデクリメントカウンター         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/react-react-increment-decrement-counter-67585'>チャレンジを開始</a>             |
-|             05 | 🎯 🟢 応答性のある React ポートフォリオを構築する              | 中級     | <a target='_blank' href='https://labex.io/ja/labs/react-build-responsive-react-portfolio-67591'>チャレンジを開始</a>              |
-|             06 | 🎯 🟢 React フックを使ったヘビゲームの開発                     | 中級     | <a target='_blank' href='https://labex.io/ja/labs/react-developing-snake-game-with-react-hooks-67592'>チャレンジを開始</a>        |
-|             07 | 🎯 🟢 React でドラッグアンドドロップ機能付きのボードを作成する | 初級     | <a target='_blank' href='https://labex.io/ja/labs/react-build-drag-and-drop-react-board-67588'>チャレンジを開始</a>               |
-|             08 | 🎯 🟢 ナメコゲーム                                             | 初級     | <a target='_blank' href='https://labex.io/ja/labs/react-tik-tac-toe-67594'>チャレンジを開始</a>                                   |
-|             09 | 🎯 🟢 スキルの入力                                             | 初級     | <a target='_blank' href='https://labex.io/ja/labs/react-input-of-skills-67590'>チャレンジを開始</a>                               |
-|             10 | 🎯 🔵 React を使った反応型 e コマースサイトの開発              | 初級     | <a target='_blank' href='https://labex.io/ja/labs/react-develop-reactive-ecommerce-website-with-react-67589'>チャレンジを開始</a> |
-
-## 環境
-
-LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- 動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ。
-- ブラウザ内のインタラクティブなオンライン環境で、自動化されたステップバイステップのチェック機能。
-- スキルツリーベースのシステムによる構造化されたコンテンツ組織。
-- 30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソース。
-- 最新の AI モデルを基盤とした学習アシスタント Labby による対話型学習体験。
-
-詳細について [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+[すべてのチャレンジを見る](https://labex.io/ja/learn/react).
 
 ## その他
 
-- 🔗 [React プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [React プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [React 無料チュートリアル](https://github.com/labex-labs/react-free-tutorials)
+- 🔗 [LabEx で React について詳しく見る](https://labex.io/ja/learn/react)
+- 🔗 [さらにプログラミングプロジェクトを見る](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [プログラミングコースを見る](https://github.com/labex-labs/awesome-programming-courses)
 
