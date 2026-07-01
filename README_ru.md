@@ -1,50 +1,46 @@
-# Задачи для практики в React
+# Практические испытания React
 
 ## Языки
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Задачи для практики в React](https://cover-creator.labex.io/react-practice-challenges.png?lang=ru)](https://labex.io/ru/courses/react-practice-challenges)
+<div align="center">
+<img width="128px" src="https://file.labex.io/upload/u/1991/hQQaZ4DWe13G.png">
+</div>
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ru/courses/react-practice-challenges)
+Изучите React, популярную библиотеку для создания пользовательских интерфейсов, с помощью этого структурированного учебного плана, разработанного для начинающих. Эти всеобъемлющие курсы по React предоставляют пошаговое руководство по освоению компонентов, управлению состоянием и хуков. Развивайте практические навыки, выполняя практические упражнения по кодированию без видео в интерактивной среде для фронтенд-разработки, чтобы создавать современные, адаптивные веб-приложения.
 
-Этот курс содержит множество задач по React. Каждая задача представляет собой небольшой проект на React с подробными инструкциями и решениями. Вы можете практиковать свои навыки работы с React, решая эти задачи, улучшить свои навыки решения проблем и научиться писать чистый и эффективный код.
+Просмотрите до 21 целевых испытаний React на LabEx. Каждое испытание открывается в интерактивной среде для отработки конкретных навыков.
 
-![React](https://img.shields.io/badge/React-whitesmoke?style=for-the-badge&logo=react)
+|   Индекс | Название                                                                                                               | Навыки                            | Сложность   | Практика                                                                                        |
+|----------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------|-------------------------------------------------------------------------------------------------|
+|       01 | [Гидратация существующего корневого элемента](https://labex.io/ru/labs/hydrate-existing-root-705317)                   | Hydration                         | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/hydrate-existing-root-705317)                       |
+|       02 | [Тестирование компонента Toggle](https://labex.io/ru/labs/test-toggle-component-705327)                                | Тестирование компонентов          | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/test-toggle-component-705327)                       |
+|       03 | [Разделение панели администратора](https://labex.io/ru/labs/split-admin-panel-705326)                                  | Разделение кода                   | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/split-admin-panel-705326)                           |
+|       04 | [Отображение состояний запроса](https://labex.io/ru/labs/show-query-states-705325)                                     | Загрузка и состояния ошибок       | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/show-query-states-705325)                           |
+|       05 | [Исправление доступных вкладок](https://labex.io/ru/labs/repair-accessible-tabs-705324)                                | Доступные компоненты              | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/repair-accessible-tabs-705324)                      |
+|       06 | [Рендеринг серверной оболочки](https://labex.io/ru/labs/render-server-shell-705323)                                    | Концепции серверного рендеринга   | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/render-server-shell-705323)                         |
+|       07 | [Рендеринг модального окна через портал](https://labex.io/ru/labs/render-modal-portal-705322)                          | Порталы                           | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/render-modal-portal-705322)                         |
+|       08 | [Профилирование медленного списка](https://labex.io/ru/labs/profile-slow-list-705321)                                  | Профилирование производительности | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/profile-slow-list-705321)                           |
+|       09 | [Приоритизация обновлений фильтра](https://labex.io/ru/labs/prioritize-filter-updates-705320)                          | Concurrent Rendering              | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/prioritize-filter-updates-705320)                   |
+|       10 | [Мемоизация отфильтрованного списка](https://labex.io/ru/labs/memoize-filtered-list-705319)                            | Мемоизация                        | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/memoize-filtered-list-705319)                       |
+|       11 | [Управление редьюсером корзины](https://labex.io/ru/labs/manage-cart-reducer-705318)                                   | Reducers                          | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/manage-cart-reducer-705318)                         |
+|       12 | [Приложение для переключения тем в React](https://labex.io/ru/labs/javascript-react-theme-switcher-application-300137) | Контекст                          | Средний     | [Начать Испытание](https://labex.io/ru/labs/javascript-react-theme-switcher-application-300137) |
+|       13 | [Фокусировка на поле поиска](https://labex.io/ru/labs/focus-search-input-705316)                                       | Refs                              | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/focus-search-input-705316)                          |
+|       14 | [Включение строгого режима (Strict Mode)](https://labex.io/ru/labs/enable-strict-mode-705315)                          | Строгий режим                     | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/enable-strict-mode-705315)                          |
+|       15 | [Вычисление итоговой суммы корзины](https://labex.io/ru/labs/derive-cart-total-705314)                                 | Производное состояние             | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/derive-cart-total-705314)                           |
+|       16 | [Композиция дочерних элементов в Card](https://labex.io/ru/labs/compose-card-children-705313)                          | children                          | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/compose-card-children-705313)                       |
+|       17 | [Колокация состояния переключателя](https://labex.io/ru/labs/colocate-toggle-state-705312)                             | Совместное размещение состояния   | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/colocate-toggle-state-705312)                       |
+|       18 | [Очистка слушателя событий окна](https://labex.io/ru/labs/clean-window-listener-705311)                                | Очистка побочных эффектов         | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/clean-window-listener-705311)                       |
+|       19 | [Перехват ошибок виджета](https://labex.io/ru/labs/catch-widget-errors-705310)                                         | Границы ошибок                    | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/catch-widget-errors-705310)                         |
+|       20 | [Добавление резервного интерфейса Suspense](https://labex.io/ru/labs/add-suspense-fallback-705309)                     | Границы Suspense                  | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/add-suspense-fallback-705309)                       |
+|       21 | [Переключение между светлой и темной темами](https://labex.io/ru/labs/react-switch-between-light-and-dark-300147)      | Контекст                          | Средний     | [Начать Испытание](https://labex.io/ru/labs/react-switch-between-light-and-dark-300147)         |
 
-
-## Упражнения
-
-|   Индекс | Название                                                    | Сложность   | Практика                                                                                                                          |
-|----------|-------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 🎯 🟢 Повторно используемый компонент пользовательской ф... | Средний     | <a target='_blank' href='https://labex.io/ru/labs/react-reusable-react-custom-form-component-67586'>Начать Испытание</a>          |
-|       02 | 🎯 🟢 Разработка игры в крестики-нолики с использованием... | Средний     | <a target='_blank' href='https://labex.io/ru/labs/react-develop-tic-tac-toe-game-with-react-67587'>Начать Испытание</a>           |
-|       03 | 🎯 🟢 Реактивный секундомер и таймер обратного отсчета      | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/react-reactive-stopwatch-and-countdown-timer-67593'>Начать Испытание</a>        |
-|       04 | 🎯 🟢 Счетчик с увеличением и уменьшением в React           | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/react-react-increment-decrement-counter-67585'>Начать Испытание</a>             |
-|       05 | 🎯 🟢 Создание отзывчивого портфолио на React               | Средний     | <a target='_blank' href='https://labex.io/ru/labs/react-build-responsive-react-portfolio-67591'>Начать Испытание</a>              |
-|       06 | 🎯 🟢 Разработка игры "Змейка" с использованием хуков Re... | Средний     | <a target='_blank' href='https://labex.io/ru/labs/react-developing-snake-game-with-react-hooks-67592'>Начать Испытание</a>        |
-|       07 | 🎯 🟢 Создание доски для перетаскивания элементов в Reac... | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/react-build-drag-and-drop-react-board-67588'>Начать Испытание</a>               |
-|       08 | 🎯 🟢 Крестики-нолики                                       | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/react-tik-tac-toe-67594'>Начать Испытание</a>                                   |
-|       09 | 🎯 🟢 Ввод навыков                                          | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/react-input-of-skills-67590'>Начать Испытание</a>                               |
-|       10 | 🎯 🔵 Разработка реактивного сайта для онлайн-магазина с... | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/react-develop-reactive-ecommerce-website-with-react-67589'>Начать Испытание</a> |
-
-## Среда
-
-LabEx - это интерактивная практическая обучающая платформа, посвященная программированию и технологиям. Она объединяет лаборатории, ИИ-помощь и виртуальные машины для обеспечения практического обучения без видео.
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- Строгий подход "Учись делая" с эксклюзивными практическими лабораториями без видео.
-- Интерактивные онлайн-среды в браузере с автоматизированными пошаговыми проверками.
-- Структурированная организация контента с системой на основе Дерева Навыков.
-- Растущий учебный ресурс из 30 Деревьев Навыков и более 6,000 Лабораторий.
-- Ассистент обучения Labby, построенный на последних моделях ИИ, обеспечивающий разговорный опыт обучения.
-
-Узнать больше о [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+[Посмотреть все испытания](https://labex.io/ru/learn/react).
 
 ## Больше
 
-- 🔗 [React Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [React Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [React Бесплатные туториалы](https://github.com/labex-labs/react-free-tutorials)
+- 🔗 [Узнать больше о React на LabEx](https://labex.io/ru/learn/react)
+- 🔗 [Посмотреть больше проектов программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Посмотреть курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
 
